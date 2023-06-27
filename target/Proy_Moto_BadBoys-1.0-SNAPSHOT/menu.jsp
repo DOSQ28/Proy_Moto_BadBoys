@@ -3,7 +3,7 @@
 
         <div class="menu-container">
             <div class="block-keep-ratio block-keep-ratio-2-1 block-width-full home">                                    
-                <a href="index.html" class="block-keep-ratio__content  main-menu-link">
+                <a href="index.jsp" class="block-keep-ratio__content  main-menu-link">
                     <span class="main-menu-link-text">
                         INICIO  
                     </span>                                        
@@ -13,7 +13,7 @@
 
         <div class="menu-container">                                
             <div class="block-keep-ratio  block-keep-ratio-1-1  block-width-half  pull-left  about-main">                                    
-                <a href="about.html" class="main-menu-link about block-keep-ratio__content flexbox-center">
+                <a href="about.jsp" class="main-menu-link about block-keep-ratio__content flexbox-center">
                     <i class="fa fa-user fa-4x main-menu-link-icon"></i>
                     NOSOTROS
                 </a>                                    

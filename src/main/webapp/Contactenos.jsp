@@ -2,26 +2,33 @@
                                 <div class="col-sm-12 col-md-6 contact_right">
 
                                     <div class="col-md-12 contact_title">
-                                        CONTACT
+                                        PROYECTO EMERGENTES 
                                     </div>
 
                                     <div class="col-md-12 contact_sub_title">
-                                        LOREM IPSUM NEC SAGITTIS
+                                        GRUPO BAD BOYS
                                     </div>
 
                                     <div class="col-md-12 contact_text">
-                                        Accord is free Bootstrap theme by templatemo. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudi  lorem quis bibendum auctor, nisi elit consequat ipsum nec sagittis semg nibh.
+                                        Este proyecto es para salvar la materia de Tecnologias Emergentes II eta realizado por los grandiosos semi Ingenieros de Sistemas
+                                        <b>
+                                            <ul>
+                                                <li>Dennis Oliver Saravia </li>
+                                                <li>Emanuel Mamani Aliaga</li>                                               
+                                            </ul>
+
+                                        </b>
                                     </div>
 
                                     <div class="col-md-12 contact_info">
                                         <a href="mailto:info@company.com" class="contact-info-link">
-                                            <i class="fa fa-envelope contact-fa"></i>info@company.com
+                                            <i class="fa fa-envelope contact-fa"></i>BadBoys@gmail.com
                                         </a><br/>
                                         <a href="+1234567890" class="contact-info-link">
-                                            <i class="fa fa-mobile contact-fa"></i>(+123) 456 7890
+                                            <i class="fa fa-mobile contact-fa"></i>(+591) 78858558
                                         </a><br/>
                                         <a href="+0987654321" class="contact-info-link">
-                                            <i class="fa fa-phone contact-fa"></i>(+098) 765 4321
+                                            <i class="fa fa-phone contact-fa"></i>(+591) 69751770
                                         </a><br/>
                                     </div>
 

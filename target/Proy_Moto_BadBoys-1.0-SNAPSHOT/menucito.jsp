@@ -15,3 +15,4 @@
         <a class="nav-link "  href="MotocicletaControlador">Motocicletas</a>
     </li>    
 </ul>
+<a href="Logout" class="btn btn-danger">Cerrar Session</a>

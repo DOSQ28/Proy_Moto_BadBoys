@@ -1,6 +1,10 @@
+<%
+    if(session.getAttribute("login")!="OK"){
+    response.sendRedirect("login.jsp");
+    }
+%>
 <%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%> 
-
 <jsp:include page="arriba.jsp"/>
 <body class="contact-page">
     <div class="main-body">
