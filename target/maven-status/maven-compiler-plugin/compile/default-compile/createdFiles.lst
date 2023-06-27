@@ -1,0 +1,13 @@
+com\badBoys\controlador\ClienteControlador.class
+com\badBoys\modelo\Empleados.class
+com\badBoys\dao\EmpleadosDAO.class
+com\badBoys\modelo\Motocicletas.class
+com\badBoys\dao\ClientesDAOimpl.class
+com\badBoys\dao\MotocicletasDAO.class
+com\badBoys\controlador\EmpleadoControlador.class
+com\badBoys\dao\EmpleadosDAOimpl.class
+com\badBoys\dao\MotocicletasDAOimpl.class
+com\badBoys\controlador\MotocicletaControlador.class
+com\badBoys\modelo\Clientes.class
+com\badBoys\utiles\ConexcionDB.class
+com\badBoys\dao\ClientesDAO.class
