@@ -3,7 +3,7 @@
 <!--tabs-->
 <ul class="nav nav-tabs">
     <li class="nav-item">
-        <a class="nav-link "  href="ClienteControlador">Cliente</a>
+        <a class="nav-link active"  href="ClienteControlador">Cliente</a>
     </li>    
     <li class="nav-item">
         <a class="nav-link "  href="VentaControlador">Venta</a>

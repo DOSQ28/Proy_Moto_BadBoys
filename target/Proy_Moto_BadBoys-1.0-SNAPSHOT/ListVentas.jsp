@@ -22,7 +22,7 @@
                                     <div class="gallery_title">                                        
                                         <h3>VENTAS DE MOTOCICLETAS BAD BOYS</h3>
                                         <h4><a href="VentaControlador?action=add" class="btn btn-primary btn-sm fa-2x"><i class="fa-solid fa-plus-minus "></i> Nuevo</a> </h4>
-                                    </div>    
+                                        <h4><a href="RespCSV" class="btn btn-primary btn-sm fa-2x"><i class="fa-solid fa-plus-minus "></i> Reporte Excel</a> </h4>                                                                            
                                 </div>                            
                             </div>
 
